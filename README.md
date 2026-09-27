@@ -1,4 +1,4 @@
-# Hi, I’m [StepSha]
+# Hi, I’m StepSha
 
 DevOps / Linux / CI/CD enthusiast.
 
